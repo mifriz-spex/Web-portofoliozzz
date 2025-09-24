@@ -445,3 +445,7 @@ footer {
 .footer-icons a:hover svg {
   fill: #000;
 }
+
+html, body {
+  overflow-x: hidden;
+}
